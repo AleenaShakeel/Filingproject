@@ -1,0 +1,24 @@
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\bin\Debug\lab2Filing.exe.config
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\bin\Debug\lab2Filing.exe
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\bin\Debug\lab2Filing.pdb
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.csprojResolveAssemblyReference.cache
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form1.resources
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form2.resources
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Properties.Resources.resources
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.csproj.GenerateResource.Cache
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.exe
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.pdb
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form3.resources
+c:\users\zass\documents\visual studio 2012\Projects\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form4.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\bin\Debug\lab2Filing.exe.config
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.exe
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.pdb
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\bin\Debug\lab2Filing.exe
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\bin\Debug\lab2Filing.pdb
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.csprojResolveAssemblyReference.cache
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form1.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form2.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form3.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Form4.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.Properties.Resources.resources
+C:\Users\ZASS\Documents\Visual Studio 2012\Projects\3rd semester VP\lab2Filing\lab2Filing\obj\Debug\lab2Filing.csproj.GenerateResource.Cache
